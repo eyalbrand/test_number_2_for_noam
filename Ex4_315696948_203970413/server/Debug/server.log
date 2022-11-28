@@ -1,0 +1,20 @@
+﻿  global.c
+  log.c
+  main.c
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\main.c(43,52): warning C4022: 'CreateThreadSimple': pointer mismatch for actual parameter 2
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\main.c(48,28): warning C4013: 'MainServer' undefined; assuming extern returning int
+  MainServer.c
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\MainServer.c(234,26): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\MainServer.c(235,26): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\MainServer.c(236,26): warning C4047: '=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\MainServer.c(264,35): warning C4013: 'FindFirstUnusedThreadSlot' undefined; assuming extern returning int
+  service_thread.c
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\service_thread.c(67,7): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\service_thread.c(67,3): warning C4024: 'CreateFileA': different types for formal and actual parameter 3
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\service_thread.c(97,20): warning C4013: 'write_to_log_file' undefined; assuming extern returning int
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\service_thread.c(167,52): warning C4020: 'ReceiveString': too many actual parameters
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\service_thread.c(742,1): warning C4029: declared formal parameter list different from definition
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\service_thread.c(790,1): warning C4029: declared formal parameter list different from definition
+  Generating Code...
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\server\MainServer.c(451): warning C4716: 'inputThread': must return a value
+  server.vcxproj -> C:\Users\eyalb\source\repos\Ex4_315696948_203970413\Debug\server.exe

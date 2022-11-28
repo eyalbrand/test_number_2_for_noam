@@ -1,0 +1,7 @@
+﻿  log.c
+  main.c
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\Client\main.c(61,20): warning C4013: 'write_to_log_file' undefined; assuming extern returning int
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\Client\main.c(592,18): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\eyalb\source\repos\Ex4_315696948_203970413\Client\main.c(592,17): warning C4024: 'strtok': different types for formal and actual parameter 1
+  Generating Code...
+  Client.vcxproj -> C:\Users\eyalb\source\repos\Ex4_315696948_203970413\Debug\client.exe

@@ -1,0 +1,33 @@
+﻿  global.c
+  log.c
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\log.c(37,87): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\log.c(47,81): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  main.c
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\main.c(48,52): warning C4022: 'CreateThreadSimple': pointer mismatch for actual parameter 2
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\main.c(53,28): warning C4013: 'MainServer' undefined; assuming extern returning int
+  MainServer.c
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\MainServer.c(180,34): warning C4013: 'FindFirstUnusedThreadSlot' undefined; assuming extern returning int
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\MainServer.c(229,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\MainServer.c(229,11): message : consider using '%zd' in the format string
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\MainServer.c(239,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\MainServer.c(239,11): message : consider using '%zd' in the format string
+  service_thread.c
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(56,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(81,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(123,7): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(123,3): warning C4024: 'CreateFileA': different types for formal and actual parameter 3
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(143,20): warning C4013: 'write_to_log_file' undefined; assuming extern returning int
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(190,29): warning C4133: '=': incompatible types - from 'char [8]' to 'LPCTSTR'
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(191,27): warning C4133: '=': incompatible types - from 'char [7]' to 'LPCTSTR'
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(318,15): warning C4102: 'VERSUS_LABEL': unreferenced label
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(176,7): warning C4101: 'SendStr': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(182,7): warning C4101: 'message': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(186,8): warning C4101: 'wait_code_gamesession': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(184,6): warning C4101: 'ret': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(490,29): warning C4101: 'oppName': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(529,29): warning C4101: 'oppName': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(619,9): warning C4101: 'strFinishMessage': unreferenced local variable
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\service_thread.c(692,25): warning C4101: 'oppName': unreferenced local variable
+  Generating Code...
+C:\Users\eyalb\source\repos\Ex4_Server\Ex4\server\MainServer.c(382): warning C4716: 'inputThread': must return a value
+  server.vcxproj -> C:\Users\eyalb\source\repos\Ex4_Server\Ex4\x64\Debug\server.exe

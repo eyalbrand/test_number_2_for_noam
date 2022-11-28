@@ -1,0 +1,75 @@
+sent from client-CLIENT_REQUEST:Ori
+received from server-SERVER_APPROVED
+Connected to server on 127.0.0.1:5555
+received from server-SERVER_MAIN_MENU
+sent from client-CLIENT_VERSUS
+received from server-GAME_STARTED
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;1;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:2
+received from server-GAME_VIEW:Ori;2;CONT
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;3;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:4
+received from server-GAME_VIEW:Ori;4;CONT
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;5;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:6
+received from server-GAME_VIEW:Ori;6;CONT
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;boom;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:8
+received from server-GAME_VIEW:Ori;8;CONT
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;boom;END
+received from server-GAME_ENDED:Ori
+received from server-SERVER_MAIN_MENU
+sent from client-CLIENT_VERSUS
+received from server-GAME_STARTED
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;1;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:2
+received from server-GAME_VIEW:Ori;2;CONT
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;3;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:4
+received from server-GAME_VIEW:Ori;4;CONT
+received from server-TURN_SWITCH:Eyal's turn!
+received from server-GAME_VIEW:Eyal;5;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:boom
+received from server-GAME_VIEW:Ori;boom;END
+received from server-GAME_ENDED:Eyal
+received from server-SERVER_MAIN_MENU
+sent from client-CLIENT_VERSUS
+received from server-GAME_STARTED
+received from server-TURN_SWITCH:Noam's turn!
+received from server-GAME_VIEW:Noam;1;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:2
+received from server-GAME_VIEW:Ori;2;CONT
+received from server-TURN_SWITCH:Noam's turn!
+received from server-GAME_VIEW:Noam;3;CONT
+received from server-TURN_SWITCH:Your turn!
+received from server-SERVER_MOVE_REQUEST
+sent from client-CLIENT_PLAYER_MOVE:4
+received from server-GAME_VIEW:Ori;4;CONT
+received from server-TURN_SWITCH:Noam's turn!
+received from server-SERVER_OPPONENT_QUIT
+received from server-SERVER_MAIN_MENU
+sent from client-CLIENT_VERSUS
+Server disconnected. Exiting.
