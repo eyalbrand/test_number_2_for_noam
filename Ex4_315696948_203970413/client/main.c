@@ -8,7 +8,7 @@ the user deside to leave the game/system
 */
 
 
-#include "RunClient.h"
+//#include "RunClient.h"
 
 /// <summary>
 /// main function of the client
