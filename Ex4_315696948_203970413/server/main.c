@@ -11,7 +11,7 @@ The client gets ip address, port and the client name for proper functioning.
 
 //#include "main.h"
 #include "MainServer.h"
-#include "global.h"
+//#include "global.h"
 
 
 /// <summary>
