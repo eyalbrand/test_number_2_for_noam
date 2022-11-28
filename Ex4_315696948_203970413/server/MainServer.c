@@ -1,5 +1,5 @@
 
-#include "MainServer.h"
+//#include "MainServer.h"
 #include "global.h"
 
 #include<winsock2.h>
