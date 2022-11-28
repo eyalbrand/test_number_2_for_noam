@@ -9,7 +9,7 @@ The client gets ip address, port and the client name for proper functioning.
 /// include ------------------------------------------------
 
 
-#include "main.h"
+//#include "main.h"
 #include "MainServer.h"
 #include "global.h"
 
